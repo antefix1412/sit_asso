@@ -1,0 +1,44 @@
+*, ::after, ::before{
+    margin: 0;
+    padding: 0;
+    font-family: "Red Hat Mono", serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    padding: 2rem;
+}
+
+header{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #4DA1A9;
+}
+
+.logo{
+    padding: 20px;
+}
+
+main{
+    background-color: #2E5077;
+}
+
+.qui-sommes-nous, .que-faisons-nous{
+    background-color: white;
+    width: 80%;
+}
+
+footer{
+    background-color: #4DA1A9;
+}
