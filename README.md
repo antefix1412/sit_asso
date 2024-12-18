@@ -9,19 +9,21 @@ Lien du Dépôt GitHub : https://github.com/antefix1412/sit_asso.git
 Captures d'Écran Git
 
 1. Configuration Global
-Capture Configuration Git
+
 
 2. Gestion des Branches
-Capture Liste des Branches
+![alt text](/img/gestionbranches1.png)
 
 3. Historique des Commits
-Capture Historique Commits
+![alt text](/img/commits.png)
 
 4. Status du Projet
-Capture Status Git
+
 
 5. Graphe des Branches
-Capture Graphe Branches
+![alt text](/img/graphebranches.png)
+![alt text](/img/graphebranches2.png)
+
 
 Analyse des Commandes
 
