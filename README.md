@@ -32,6 +32,10 @@ Commande : git rev-list --count main
 Résultat : 37 commits 
 
 Contributions individuelles
+Ridwan: HTML + CSS (Member); README
+Antoine: HTML + CSS (Index-Projets);  README
+Titouan: HTML + CSS (Contact); README
+
 Commande : git rev-list --count « nom de la branche »
 
 Ridwan : 21 commit
