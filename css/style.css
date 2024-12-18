@@ -26,17 +26,30 @@ header{
     background-color: #4DA1A9;
 }
 
+header img{
+    width: 15rem;
+}
+
+main{
+    text-align: center;
+}
+
+.qui-sommes-nous{
+    display: flex;
+
+}
+
+.qui-sommes-nous img{
+    width: 70rem;
+    height: 100%;
+}
+
 .logo{
     padding: 20px;
 }
 
 main{
     background-color: #2E5077;
-}
-
-.qui-sommes-nous, .que-faisons-nous{
-    background-color: white;
-    width: 80%;
 }
 
 footer{
