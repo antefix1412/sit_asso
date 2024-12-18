@@ -189,15 +189,3 @@ footer img{
     width: 20px;
 }
 
-/* Responsiveness */
-@media (max-width: 768px) {
-    nav ul {
-        flex-direction: column;
-        align-items: center;
-        gap: 10px;
-    }
-
-    .row {
-        flex-direction: column;
-    }
-}
