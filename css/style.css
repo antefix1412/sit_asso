@@ -16,7 +16,7 @@ body {
 /* En-tête */
 header {
     background-color: #003580;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px 0;
     display: flex;
     justify-content: space-between;
@@ -43,8 +43,9 @@ header ul{
 }
 
 header li a{
-    color: white;
+    color: violet;
     padding: 2rem;
+    margin: 1rem;
 }
 
 header li{
